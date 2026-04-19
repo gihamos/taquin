@@ -234,7 +234,7 @@ Ce projet est librement utilisable à des fins éducatives.
 
 ##  À propos
 
-Développé comme projet d'étude pour le cours de programmation C++/Qt en Licence 3 Informatique.
+Développé comme projet d'étude pour le cours de programmation C++/Qt.
 
 **Auteur** : [@gihamos](https://github.com/gihamos)  
 **Dernière mise à jour** : Avril 2026
