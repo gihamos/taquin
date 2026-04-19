@@ -1,8 +1,8 @@
-# 🎮 Taquin - Puzzle Game
+# Taquin - Puzzle Game
 
 Un jeu de Taquin (15-puzzle) classique développé en **C++** avec **Qt Framework**, offrant une interface graphique intuitive et le support multilingue.
 
-## 📋 Table des matières
+## Table des matières
 
 - [Caractéristiques](#-caractéristiques)
 - [Prérequis](#-prérequis)
@@ -16,19 +16,19 @@ Un jeu de Taquin (15-puzzle) classique développé en **C++** avec **Qt Framewor
 
 ---
 
-## 🎯 Caractéristiques
+## Caractéristiques
 
-✅ **Jeu du Taquin classique** - Puzzle à 9 tuiles (grille 3×3)  
-✅ **Interface graphique** - Interface moderne avec Qt Widgets  
-✅ **Multilingue** - Support français et anglais avec détection automatique  
-✅ **Sauvegarde/Chargement** - Sauvegardez votre partie et reprenez plus tard  
-✅ **Compteur de coups** - Suivez le nombre de mouvements  
-✅ **Thèmes personnalisés** - Plusieurs images de fond disponibles  
-✅ **Raccourcis clavier** - Accès rapide aux fonctionnalités principales  
+ **Jeu du Taquin classique** - Puzzle à 9 tuiles (grille 3×3)  
+ **Interface graphique** - Interface moderne avec Qt Widgets  
+ **Multilingue** - Support français et anglais avec détection automatique  
+ **Sauvegarde/Chargement** - Sauvegardez votre partie et reprenez plus tard  
+ **Compteur de coups** - Suivez le nombre de mouvements  
+ **Thèmes personnalisés** - Plusieurs images de fond disponibles  
+ **Raccourcis clavier** - Accès rapide aux fonctionnalités principales  
 
 ---
 
-## 🛠️ Prérequis
+##  Prérequis
 
 Avant de compiler le projet, vous devez installer :
 
@@ -60,7 +60,7 @@ brew install cmake qt
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### 1. Cloner le repository
 ```bash
@@ -91,7 +91,7 @@ make
 
 ---
 
-## 🎮 Utilisation
+##  Utilisation
 
 ### Commandes principales
 
@@ -119,7 +119,7 @@ Sélectionnez une image de fond dans le menu pour personnaliser votre jeu :
 
 ---
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 projet_diga/
@@ -194,9 +194,8 @@ void MainWindow::trietuiles();              // Organise les tuiles en grille
 
 ---
 
-## 🚀 Améliorations futures
+##  Améliorations futures
 
-- [ ] Grilles de tailles variables (4×4, 5×5, etc.)
 - [ ] Système de score et classement
 - [ ] Mode chronométré
 - [ ] Animation fluide des déplacements
@@ -207,7 +206,7 @@ void MainWindow::trietuiles();              // Organise les tuiles en grille
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Les contributions sont bienvenues ! Pour contribuer :
 
@@ -219,13 +218,13 @@ Les contributions sont bienvenues ! Pour contribuer :
 
 ---
 
-## 📝 Licence
+##  Licence
 
 Ce projet est librement utilisable à des fins éducatives.
 
 ---
 
-## 🆘 Support & Aide
+##  Support & Aide
 
 - 📖 [Documentation Qt](https://doc.qt.io/)
 - 🐛 Signalez les bugs via les [Issues](https://github.com/gihamos/projet/issues)
@@ -233,7 +232,7 @@ Ce projet est librement utilisable à des fins éducatives.
 
 ---
 
-## 👤 À propos
+##  À propos
 
 Développé comme projet d'étude pour le cours de programmation C++/Qt en Licence 3 Informatique.
 
